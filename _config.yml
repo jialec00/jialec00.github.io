@@ -8,7 +8,7 @@ first_name: Jiale
 last_name: Chen
 email: jialec@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My research interests are in the design and analysis of algorithms with a current focus on matching algorithms in various settings.
+  Jiale Chen is a third-year Ph.D. student at Stanford University specializing in the design and analysis of algorithms, with a particular focus on matching algorithms across diverse settings.
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
