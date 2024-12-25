@@ -271,11 +271,17 @@ plugins:
   - jemoji
 
 # Sitemap settings
+sitemap:
+  filename: "sitemap.xml" # Sitemap file name
+  exclude: 
+    - "404.html" # Exclude error pages
+  last_modified_at_field: "last_modified_at"
+
 defaults:
   - scope:
       path: "assets"
     values:
-      sitemap: true
+      sitemap: false
 
 sass:
   style: compressed
