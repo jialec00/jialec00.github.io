@@ -13,6 +13,28 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Jiale Chen",
+      "description": " Jiale Chen is a third-year Ph.D. student at Stanford University specializing in the design and analysis of algorithms, with a particular focus on matching algorithms across diverse settings.",
+      "url": "https://jialec00.github.io/",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Stanford University"
+      },
+      "alumniOf": {
+        "@type": "EducationalOrganization",
+        "name": "Peking University"
+      }
+    }
+    </script>
   </head>
 
   <!-- Body -->
