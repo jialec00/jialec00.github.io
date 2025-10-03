@@ -22,8 +22,16 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-I am a third-year Ph.D. student in operations research at Stanford University, advised by <a href="https://www.aaronsidford.com/">Prof. Aaron Sidford</a>. Previously, I obtained my B.Sc., Summa Cum Laude in Computer Science and Technology from Turing Class, Peking University, advised by <a href="https://cfcs.pku.edu.cn/yuqkong/">Prof. Yuqing Kong</a>.
+I am a fourth-year Ph.D. student at Stanford University, advised by <a href="https://www.aaronsidford.com/">Prof. Aaron Sidford</a>. My theory research focuses on the design and analysis of graph algorithms.
 
-During my undergraduate years, I am fortunate to have worked closely with <a href="https://procaccia.info/">Prof. Ariel Procaccia</a> on Fair Division and with <a href="https://sites.northwestern.edu/hartline/">Prof. Jason Hartline</a> on Algorithmic Fairness.
+In the past two years, I mainly worked on the fully dynamic $$(1-\varepsilon)$$-approximate matching problem, with particular attention to the gaps between unweighted and weighted matchings, and between bipartite and non-bipartite settings. Our work **[BCDLST25]** and **[BC26]** makes significant progress toward closing these gaps by developing a meta-algorithm that converts any $$(1-\mathrm{poly}(\varepsilon))$$-approximate algorithm for unweighted bipartite graphs into a $$(1-\varepsilon)$$-approximate algorithm for weighted general graphs, with only $$\mathrm{poly}(\log n/\varepsilon)$$ overhead.
 
-My research interests are in the design and analysis of algorithms with a current focus on matching algorithms in various settings.
+Recently, I have been deeply excited by the rapid progress in AI, particularly its growing reasoning capabilities in mathematics and coding. While I am still catching up with the field, I am especially interested in its potential to carry out independent research and tackle complex decision-making, its societal influence—including how it may reshape the beliefs of experts within their own domains—and its fundamental challenge of aligning these systems more robustly with human values.
+
+<!-- the following questions:
+* How can human domain knowledge further enhance models’ reasoning abilities toward independent research?
+* To what extent can models influence or manipulate the beliefs of experts within their own fields?
+* Do models exhibit a stable utility function when operating in complex decision-making environments?
+* How can we align models more fundamentally and robustly with human values? -->
+
+<!-- Previously, I obtained my B.Sc., Summa Cum Laude in Computer Science and Technology from Turing Class, Peking University, advised by <a href="https://cfcs.pku.edu.cn/yuqkong/">Prof. Yuqing Kong</a>. During my undergraduate years, I am fortunate to have worked closely with <a href="https://procaccia.info/">Prof. Ariel Procaccia</a> on Fair Division and with <a href="https://sites.northwestern.edu/hartline/">Prof. Jason Hartline</a> on Algorithmic Fairness. -->
