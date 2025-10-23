@@ -1,1 +1,0 @@
-This is the source code to Jiale Chen's public academic website: https://jialec00.github.io/.
